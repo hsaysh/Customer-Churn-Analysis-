@@ -1,31 +1,89 @@
-# Customer Churn Analysis - Power BI Project
+# 📉 Customer Churn Analysis
 
-This project is a customer churn analysis dashboard built using **Power BI**. The goal is to help businesses identify customers who are at risk of leaving (churning) and take proactive steps to retain them.
+Customer Churn Analysis project using Python and Power BI to identify at-risk customers, analyze behavior patterns, and generate actionable insights to improve customer retention.
 
-## 📊 Dashboard Highlights
+---
 
-- **Customer Risk Analysis**
-- **Key Insights on Churn**
-- **Overall Churn Metrics**
+## 📌 Project Overview
 
-<img src="Churn_Analysis_Dashboard_YashSharma_2025.png" width="700"/>
-<img src="Customer Risk Analysis Dashboard.png" width="700"/>
-<img src="Key Insight.png" width="700"/>
+This project focuses on analyzing customer data to understand why customers leave (churn) and how businesses can reduce churn rates. By leveraging data analytics techniques, this project identifies patterns and key factors influencing customer behavior.
 
-## 🛠 Tools Used
+---
 
-- Power BI
-- DAX
-- Data Cleaning & Modeling
+## 🎯 Objective
+
+- Identify customers likely to churn  
+- Analyze factors affecting churn  
+- Provide insights to improve customer retention  
+- Support data-driven business decisions  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Python** (Pandas, NumPy)  
+- **Power BI** (Dashboard & Visualization)  
+- **Excel** (Data Cleaning & Preparation)  
+
+---
+
+## 🔍 Analysis Performed
+
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Customer Segmentation  
+- Churn Pattern Analysis  
+- Visualization of Key Metrics  
+
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+![Dashboard](dashboard(1).png)
+![Dashboard](dashboard(2).png)
+
+---
+
+## 📈 Key Insights
+
+- High churn observed among customers with short tenure  
+- Customers with higher monthly charges are more likely to churn  
+- Lack of additional services increases churn probability  
+- Specific customer segments show higher retention  
+
+---
+
+## 📌 Business Impact
+
+- Helps businesses identify at-risk customers early  
+- Supports strategies to reduce customer loss  
+- Improves customer retention and revenue growth  
+
+---
 
 ## 📁 Project Files
 
-- `.pbix` file with full report
-- Screenshots of dashboard
-- Summary report image
+- `Customer_Churn_Data.csv` → Dataset  
+- `analysis.ipynb` → Python analysis  
+- `dashboard.pbix` → Power BI dashboard  
 
-## 👨‍💻 Developed By
+---
+
+## 🎯 Conclusion
+
+This project demonstrates how data analytics can be used to understand customer behavior and reduce churn. By identifying key patterns, businesses can take proactive actions to retain customers and improve overall performance.
+
+---
+
+## 👨‍💻 Author
 
 **Yash Sharma**  
-B.Tech Computer Science, Poornima University  
-[LinkedIn](https://www.linkedin.com/in/yash-sharma-8a04b82b8) | [GitHub](https://github.com/hsaysh)
+🔗 https://github.com/hsaysh  
+🔗 https://www.linkedin.com/in/yash-sharma-5527ab398  
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please give it a ⭐ on GitHub!
